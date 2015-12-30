@@ -11,7 +11,7 @@ and open the template in the editor.
         <title>test Github and wamp</title>
     <b>test github wamp</b>
     <b>test détection modification github</b>
-    <!-- dfsgsqlidfhq-->
+    
     </head>
     <body>
         <?php
